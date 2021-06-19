@@ -1,17 +1,23 @@
 
 
 ## school-api
-School API project built using Django Rest Framework, to mimic school management system with the following models: Class, Teacher, Student, Subject, Major
+School API project built using Django Rest Framework, for a school management system with the following models: Class, Teacher, Student, Subject, Major
 
 
-This is a very simple Entity Relationship Diagram used Factory API - could be upgraded later easily
+This is an Entity Relationship Diagram used Factory API 
 
-![drf image]()
+![drf image](https://github.com/pedrasfloki/school-api/blob/main/screensshot%20for%20project/archiving%20assistant.png)
 
 
 These are some screensshot of School API 
 
-![drf image]()
+![drf image](https://github.com/pedrasfloki/school-api/blob/main/screensshot%20for%20project/Screenshot%20from%202021-06-18%2021-40-42.png)
+
+![drf image](https://github.com/pedrasfloki/school-api/blob/main/screensshot%20for%20project/Screenshot%20from%202021-06-18%2021-46-34.png)
+
+![drf image](https://github.com/pedrasfloki/school-api/blob/main/screensshot%20for%20project/Screenshot%20from%202021-06-18%2021-48-21.png)
+
+![drf image](https://github.com/pedrasfloki/school-api/blob/main/screensshot%20for%20project/Screenshot%20from%202021-06-18%2021-49-26.png)
 
 
 ## authentication schemes used:
